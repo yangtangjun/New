@@ -1,0 +1,23 @@
+html,body{
+	overflow-x: hidden;
+	width: 100%; 
+} 
+.centent .centent-top{
+	width: 100%;
+}
+.centent .centent-center{
+	width: 100%;
+}
+.centent .centent-warp{
+	width: 87%;
+}
+.centent .centent-top .video{
+	width: 95%;
+	height: 95%;
+}
+.centent .centent-top .top-video{
+	height: 100%;
+}
+.centent .centent-top .top-warp{
+	height: 270px;
+}
